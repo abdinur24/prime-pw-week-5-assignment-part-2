@@ -1,0 +1,20 @@
+.dark-backgorund{
+    background-color: rgb(15, 50, 110);
+}
+.text-alignment{
+    text-align: center;
+}
+.light-color{
+    color: rgb(204, 247, 139);
+}
+.gray-background{
+    background-color: lightgray;
+    padding: 1em;
+}
+.background-styling{
+    background-image: url(record.png);
+    background-repeat: repeat;
+}
+body{
+    margin: 0;
+}
